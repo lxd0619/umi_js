@@ -300,4 +300,6 @@ export default defineConfig({
   manifest: {
     basePath: '/',
   },
+  publicPath: './',
+  outputPath: 'docs',
 });
